@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+/build/
+/dist/
+*.log
+*.tmp
+/node_modules/
+/venv/
+/env/
+.vscode/
+.idea/
+*.sublime-project
+.env
+secrets.yml
